@@ -1,0 +1,7 @@
+5 10 15 20 anh đi tìm em giữa trốn không người 
+
+git clone 
+git status
+git add *
+git commit -m "Add new file .."
+git push
